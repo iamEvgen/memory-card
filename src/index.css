@@ -13,6 +13,7 @@ body {
 .App {
   background-image: url(./images/bg.jpeg);
   background-size: cover;
+  background-attachment: fixed;
   height: 100vh;
   background-position: center;
   display: flex;
@@ -43,6 +44,7 @@ body {
   margin-top: auto;
   margin-bottom: auto;
   display: flex;
+  flex-wrap: wrap;
   gap: 25px;
 }
 
