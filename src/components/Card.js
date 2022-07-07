@@ -1,10 +1,7 @@
 import React from 'react';
 
 function Card(props) {
-  console.log(props.hero);
-  // const url = '../' + props.hero.url;
-  // console.log(url);
-  const cardImage = require('../heroes/Ciri.jpg');
+  const cardImage = require('../' + props.hero.url);
 
   return (
     <div className='card'>

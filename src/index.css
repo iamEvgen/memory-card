@@ -50,7 +50,7 @@ body {
 
 .card {
   color: rgb(230, 230, 230);
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   display: flex;
   flex-direction: column;
   align-items: stretch;
@@ -69,4 +69,8 @@ body {
   text-align: center;
   background-color: rgb(0, 0, 0, 0.6);
   padding: 5px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
