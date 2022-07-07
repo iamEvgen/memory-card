@@ -1,186 +1,184 @@
-import uniqid from 'uniqid';
-
 const heroes = [
   {
-    id: uniqid(),
+    id: 0,
     name: 'Anna Henrietta',
     url: 'heroes/Anna-Henrietta.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 1,
     name: "Avallac'h",
     url: 'heroes/Avallach.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 2,
     name: 'Bloody Baron',
     url: 'heroes/Baron.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 3,
     name: 'Cahir',
     url: 'heroes/Cahir.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 4,
     name: 'Calanthe',
     url: 'heroes/Calanthe.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 5,
     name: 'Ciri',
     url: 'heroes/Ciri.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 6,
     name: 'Crach an Craite',
     url: 'heroes/Crach-an-Craite.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 7,
     name: 'Sigismund Dijkstra',
     url: 'heroes/Dijkstra.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 8,
     name: 'Emhyr var Emreis',
     url: 'heroes/Emhyr.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 9,
     name: 'Emiel Regis',
     url: 'heroes/Emiel-Regis.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 10,
     name: 'Eredin Bréacc Glas',
     url: 'heroes/Eredin.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 11,
     name: 'Eskel',
     url: 'heroes/Eskel.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 12,
     name: 'Philippa Eilhart',
     url: 'heroes/Philippa.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 13,
     name: 'Geralt of Rivia',
     url: 'heroes/Geralt.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 14,
     name: "Gaunter O'Dimm",
     url: 'heroes/Gaunter.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 15,
     name: 'Iris von Everec',
     url: 'heroes/Iris.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 16,
     name: 'Keira Metz',
     url: 'heroes/Keira.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 17,
     name: 'Lambert',
     url: 'heroes/Lambert.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 18,
     name: 'Letho of Gulet',
     url: 'heroes/Leto.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 19,
     name: 'Dandelion',
     url: 'heroes/Dandelion.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 20,
     name: 'Olgierd von Everec',
     url: 'heroes/Olgierd.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 21,
     name: 'Radovid V',
     url: 'heroes/Radovid.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 22,
     name: 'Shani',
     url: 'heroes/Shani.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 23,
     name: 'Sylvia Anna',
     url: 'heroes/Sylvia-Anna.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 24,
     name: 'Tissaia de Vries',
     url: 'heroes/Tissaia.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 25,
     name: 'Triss Merigold',
     url: 'heroes/Triss.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 26,
     name: 'Vesemir',
     url: 'heroes/Vesemir.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 27,
     name: 'Vilgefortz of Roggeveen',
     url: 'heroes/Vilgefortz.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 28,
     name: 'Yennefer of Vengerberg',
     url: 'heroes/Yennefer.jpg',
-    clicked: false
+    clicked: false,
   },
   {
-    id: uniqid(),
+    id: 29,
     name: 'Zoltan Chivay',
     url: 'heroes/Zoltan.jpg',
-    clicked: false
-  }
-]
+    clicked: false,
+  },
+];
 
 export default heroes;
