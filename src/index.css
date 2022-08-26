@@ -1,13 +1,13 @@
 @font-face {
-  font-family: "Witcher";
-  src: url("./fonts/WITCHER.TTF") format("truetype"); 
-  font-style: normal; 
-  font-weight: normal; 
-  } 
+  font-family: 'Witcher';
+  src: url('./fonts/WITCHER.TTF') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
 
 body {
   margin: 0;
-  font-family: "Witcher";
+  font-family: 'Witcher';
 }
 
 .App {
@@ -59,6 +59,9 @@ body {
 
 .card--image {
   border: 5px outset #ffcc00;
+  width: 200px;
+  height: 295px;
+  box-sizing: border-box;
 }
 
 .card--image:hover {
